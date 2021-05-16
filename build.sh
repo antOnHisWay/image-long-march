@@ -1,0 +1,1 @@
+docker build ../image -t php-apache-long-march:latest
